@@ -65,10 +65,14 @@ main .landing nav .nav-links li {
   left: 50%;
   -webkit-transform: translate(-50%, -30%);
           transform: translate(-50%, -30%);
-  font-size: 2.7rem;
+  font-size: 2.2rem;
   color: #263b4a;
 }
-
+@media (min-width:375px){
+  .big-text{
+      font-size: 2.9rem;
+  }
+}
 .intro {
   background: black;
   position: fixed;
