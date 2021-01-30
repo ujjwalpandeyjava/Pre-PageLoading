@@ -68,11 +68,13 @@ main .landing nav .nav-links li {
   font-size: 2.2rem;
   color: #263b4a;
 }
-@media (min-width:375px){
-  .big-text{
-      font-size: 2.9rem;
+
+@media (min-width: 375px) {
+  .big-text {
+    font-size: 2.9rem;
   }
 }
+
 .intro {
   background: black;
   position: fixed;
@@ -94,7 +96,7 @@ main .landing nav .nav-links li {
 .intro .intro-text {
   font-family: "Bilbo Swash Caps", cursive;
   color: #6f6fe2;
-  font-size: 2rem;
+  font-size: 2em;
 }
 
 .slider {
