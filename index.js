@@ -1,4 +1,4 @@
-//For animation don't change
+//For animation don't change it
 const tl = gsap.timeline({ defaults: { ease: 'power1.out' } });
 
 
